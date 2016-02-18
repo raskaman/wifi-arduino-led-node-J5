@@ -1,0 +1,9 @@
+{
+  "name": "testled",
+  "version": "0.0.1",
+  "dependencies": {
+    "johnny-five": "latest",
+    "udp-serial": "~0.1.2",
+    "firmata": "~0.8.3"
+  }
+}
